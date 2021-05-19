@@ -2,8 +2,6 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Google colab Link : https://colab.research.google.com/drive/1VP0up_IpgLmJjsLz741zVyqHCZfSrWvJ
-
 ![image](https://user-images.githubusercontent.com/78222887/117503090-adcb1200-afaa-11eb-9a7d-4813c97735b1.png)
 ![image](https://user-images.githubusercontent.com/78222887/117503740-94769580-afab-11eb-8eee-2b4cbf0b4119.png)
 ![image](https://user-images.githubusercontent.com/78222887/117503792-a9ebbf80-afab-11eb-8723-79d04f2af664.png)
