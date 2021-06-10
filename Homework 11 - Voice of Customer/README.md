@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/drive/1KKaoHcz-gIAooIpNzd1PlTZr0WXyC9Zm#scrollTo=B6vTHqjgqEO0">
+<a href="https://colab.research.google.com/drive/1KKaoHcz-gIAooIpNzd1PlTZr0WXyC9Zm#scrollTo=oX-4xSdWstXh">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
@@ -6,6 +6,8 @@
 Data : CustomerReviews
 
 ![image](https://user-images.githubusercontent.com/78222887/121562790-feb7a580-ca43-11eb-8816-3650f64bb2bd.png)
-
-![image](https://user-images.githubusercontent.com/78222887/121561775-ff9c0780-ca42-11eb-903e-5dce2682b2b0.png)
-![image](https://user-images.githubusercontent.com/78222887/121561936-2bb78880-ca43-11eb-9ceb-118c5bd65293.png)
+![image](https://user-images.githubusercontent.com/78222887/121563664-d7ada380-ca44-11eb-8dfe-2bb48f127e7a.png)
+![image](https://user-images.githubusercontent.com/78222887/121563740-e85e1980-ca44-11eb-9fd6-d3ce32315d7d.png)
+![image](https://user-images.githubusercontent.com/78222887/121563780-f318ae80-ca44-11eb-9234-bad1afc3cd4a.png)
+![image](https://user-images.githubusercontent.com/78222887/121563854-03c92480-ca45-11eb-88a3-cefb70d15a3d.png)
+![image](https://user-images.githubusercontent.com/78222887/121563641-ce243b80-ca44-11eb-934b-cb345d21d441.png)
