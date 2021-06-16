@@ -1,6 +1,7 @@
 # Homework 12 - Design Thinking
 เรื่องราวของสาววัย 30 ปีที่ทำงานหนักจนไม่มีเวลาทำงานบ้าน แต่ก็ยังอยากให้บ้านสะอาด 
-/nจะมี product หรือ service ใดที่จะมาช่วยเธอคนนี้ เชิญติดตามได้เลยค่า
+
+จะมี product หรือ service ใดที่จะมาช่วยเธอคนนี้ เชิญติดตามได้เลยค่า
 
 ![image](https://user-images.githubusercontent.com/78222887/122256283-19cd5e00-cef9-11eb-81f5-27cd604fb9ae.png)
 
