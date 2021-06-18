@@ -11,7 +11,10 @@ Data : Customer Survey in CRM Analytics Class
 
 ![image](https://user-images.githubusercontent.com/78222887/122587209-bfaed300-d087-11eb-86ad-bc251f69d1f6.png)
 
-# Association Rules
+# Association Rules 
+
+Find frequency itemset by apiori algorithm
+
 This chart shown frequency of A to B (one item based on confidence = 0.5 and lift = 1.05)
 
 ![image](https://user-images.githubusercontent.com/78222887/122583594-9ee47e80-d083-11eb-852c-4a0ce53fd826.png)
