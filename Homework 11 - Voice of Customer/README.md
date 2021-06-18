@@ -1,9 +1,9 @@
-<a href="https://colab.research.google.com/drive/1KKaoHcz-gIAooIpNzd1PlTZr0WXyC9Zm#scrollTo=oX-4xSdWstXh">
+<a href="https://colab.research.google.com/drive/1hYc36NQwmj3Ej1yMMMFvLUNKOemGyDqL">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-# Homework 11 – Voice of customer 
-Data : CustomerReviews
+# Homework 08 – Campaign Response Model
+Data : Retail_Data_Response, Retail_Data_Transactions
 
 ![image](https://user-images.githubusercontent.com/78222887/121564039-3a9f3a80-ca45-11eb-8b3c-52379c09bcd6.png)
 ![image](https://user-images.githubusercontent.com/78222887/121563664-d7ada380-ca44-11eb-8dfe-2bb48f127e7a.png)
