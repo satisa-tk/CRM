@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/drive/1qQZZQGSXrf26TBgsHakngnbQ03lyV_i6#scrollTo=AsD2qJc2q9LF">
+<a href="https://colab.research.google.com/drive/1qQZZQGSXrf26TBgsHakngnbQ03lyV_i6">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
